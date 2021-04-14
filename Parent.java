@@ -1,4 +1,4 @@
-package PraktikumMod2;
+
 public class Parent {
     String judul, aktor, sutradara, publisher, kategori;
     int stok;
