@@ -1,4 +1,4 @@
-package PraktikumMod2;
+
 import java.util.*;
 
 public class Child1 {
